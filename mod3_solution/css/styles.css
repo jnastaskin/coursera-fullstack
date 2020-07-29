@@ -1,0 +1,65 @@
+body {
+	font-size: 16px;
+	background-color: #ede1fa
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #72dbb3;
+	border-radius: 0;
+	border: 0;
+}
+
+/** Brand Name **/
+.navbar-brand h1 {
+	font-size: 1.4em;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+/* Nav List Settings */
+#nav-list a {
+	text-align: center;
+	border-top: 1px solid black;
+	background:  #d1f2ff;
+}
+
+#nav-list a:hover {
+	background: #fafcbb;
+}
+
+.navbar-nav {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1px solid black;
+}
+
+
+/* Nav Button Settings */
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #ff925c;
+}
+
+#collapsable-nav {
+	border: transparent;
+}
+
+/* Main Content*/
+
+.page-heading {
+	font-size: 26px;
+	color: blue;
+
+}
+
+/*item tile and titles*/
+.item-tile-title{
+	font-weight: bold;
+}
+
+.item-tile {
+	background-color: #e4f07a;
+	height: 1000px;
+}
+
